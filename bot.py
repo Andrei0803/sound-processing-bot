@@ -10,9 +10,9 @@ import noisereduce as nr
 import matplotlib.pyplot as plt
 
 
-# ссылка на бот https://t.me/Pasttime_Bot
 
-TOKEN = '6547232592:AAGbqZoIFcH1Rp3-PJ3U2smmnl-GXqqRLp0'
+
+TOKEN = ''
 
 # для старта игры необходимо запустить этот скрипт и необходимо вставить правильную ссылку на файл game.json в вашей дирректории
 
